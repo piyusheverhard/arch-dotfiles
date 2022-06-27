@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/piyush/wallpapers/3.jpg"
+let background = "#16101b"
+let foreground = "#deafbd"
+let cursor     = "#deafbd"
+
+" Colors
+let color0  = "#16101b"
+let color1  = "#91567B"
+let color2  = "#BF556B"
+let color3  = "#A66376"
+let color4  = "#676987"
+let color5  = "#955C81"
+let color6  = "#A56586"
+let color7  = "#deafbd"
+let color8  = "#9b7a84"
+let color9  = "#91567B"
+let color10 = "#BF556B"
+let color11 = "#A66376"
+let color12 = "#676987"
+let color13 = "#955C81"
+let color14 = "#A56586"
+let color15 = "#deafbd"

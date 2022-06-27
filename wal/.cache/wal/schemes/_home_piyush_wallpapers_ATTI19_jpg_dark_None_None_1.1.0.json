@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/ATTI19.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030A10",
+        "foreground": "#a1c2e1",
+        "cursor": "#a1c2e1"
+    },
+    "colors": {
+        "color0": "#030A10",
+        "color1": "#225EB2",
+        "color2": "#4477AE",
+        "color3": "#1E5FC3",
+        "color4": "#3376C5",
+        "color5": "#4984BB",
+        "color6": "#3D82CA",
+        "color7": "#a1c2e1",
+        "color8": "#70879d",
+        "color9": "#225EB2",
+        "color10": "#4477AE",
+        "color11": "#1E5FC3",
+        "color12": "#3376C5",
+        "color13": "#4984BB",
+        "color14": "#3D82CA",
+        "color15": "#a1c2e1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/JMDM5fS.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#001A35",
+        "foreground": "#9bdfcf",
+        "cursor": "#9bdfcf"
+    },
+    "colors": {
+        "color0": "#001A35",
+        "color1": "#4A6179",
+        "color2": "#0C7A84",
+        "color3": "#297F81",
+        "color4": "#5E7087",
+        "color5": "#349D91",
+        "color6": "#42BDA6",
+        "color7": "#9bdfcf",
+        "color8": "#6c9c90",
+        "color9": "#4A6179",
+        "color10": "#0C7A84",
+        "color11": "#297F81",
+        "color12": "#5E7087",
+        "color13": "#349D91",
+        "color14": "#42BDA6",
+        "color15": "#9bdfcf"
+    }
+}

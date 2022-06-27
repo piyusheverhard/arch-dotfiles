@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/minimalist-desktop-15.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030230",
+        "foreground": "#a6dff4",
+        "cursor": "#a6dff4"
+    },
+    "colors": {
+        "color0": "#030230",
+        "color1": "#0662B0",
+        "color2": "#444CA6",
+        "color3": "#0377C6",
+        "color4": "#996FB2",
+        "color5": "#059DE2",
+        "color6": "#43A5E1",
+        "color7": "#a6dff4",
+        "color8": "#749caa",
+        "color9": "#0662B0",
+        "color10": "#444CA6",
+        "color11": "#0377C6",
+        "color12": "#996FB2",
+        "color13": "#059DE2",
+        "color14": "#43A5E1",
+        "color15": "#a6dff4"
+    }
+}

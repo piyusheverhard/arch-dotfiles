@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/jase-bloor-oCZHIa1D4EU-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#02040C",
+        "foreground": "#b8bfda",
+        "cursor": "#b8bfda"
+    },
+    "colors": {
+        "color0": "#02040C",
+        "color1": "#F01161",
+        "color2": "#0C388A",
+        "color3": "#1F4B9A",
+        "color4": "#595BA2",
+        "color5": "#4E51C2",
+        "color6": "#CA4790",
+        "color7": "#b8bfda",
+        "color8": "#808598",
+        "color9": "#F01161",
+        "color10": "#0C388A",
+        "color11": "#1F4B9A",
+        "color12": "#595BA2",
+        "color13": "#4E51C2",
+        "color14": "#CA4790",
+        "color15": "#b8bfda"
+    }
+}

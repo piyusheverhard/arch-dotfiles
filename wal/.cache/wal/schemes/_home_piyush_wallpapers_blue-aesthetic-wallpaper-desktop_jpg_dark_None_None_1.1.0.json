@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/blue-aesthetic-wallpaper-desktop.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010416",
+        "foreground": "#cedcf5",
+        "cursor": "#cedcf5"
+    },
+    "colors": {
+        "color0": "#010416",
+        "color1": "#314D9D",
+        "color2": "#4B66B1",
+        "color3": "#5074C9",
+        "color4": "#6C8EDC",
+        "color5": "#95B5F6",
+        "color6": "#9EC1FE",
+        "color7": "#cedcf5",
+        "color8": "#909aab",
+        "color9": "#314D9D",
+        "color10": "#4B66B1",
+        "color11": "#5074C9",
+        "color12": "#6C8EDC",
+        "color13": "#95B5F6",
+        "color14": "#9EC1FE",
+        "color15": "#cedcf5"
+    }
+}

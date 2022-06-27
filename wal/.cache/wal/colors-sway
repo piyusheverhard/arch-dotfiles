@@ -1,0 +1,21 @@
+set $wallpaper /home/piyush/wallpapers/3.jpg
+
+set $background #16101b
+set $foreground #deafbd
+
+set $color0 #16101b
+set $color1 #91567B
+set $color2 #BF556B
+set $color3 #A66376
+set $color4 #676987
+set $color5 #955C81
+set $color6 #A56586
+set $color7 #deafbd
+set $color8 #9b7a84
+set $color9 #91567B
+set $color10 #BF556B
+set $color11 #A66376
+set $color12 #676987
+set $color13 #955C81
+set $color14 #A56586
+set $color15 #deafbd

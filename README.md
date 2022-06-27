@@ -1,4 +1,4 @@
-<h1 align="center">   arch-dotfiles</h1>
+<h1 align="center"> <img src="https://cdn1.iconfinder.com/data/icons/system-shade-circles/512/archlinux-512.png">  arch-dotfiles</h1>
 
 <p align="center">
   <img src="https://img.shields.io/archlinux/v/core/x86_64/pacman"/> 

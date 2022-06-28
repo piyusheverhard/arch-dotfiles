@@ -266,9 +266,9 @@ for_window [class="vlc"] floating enable
 for_window [class="Eog"] floating enable
 
 #tap to touch
-exec xinput set-prop 11 277 1
+exec_always xinput set-prop 11 279 1
 #natural scrolling
-exec xinput set-prop 11 285 1
+exec_always xinput set-prop 11 287 1
 
 #screen brightness controls
 bindsym XF86MonBrightnessUp exec light -A 1 # increase screen brightness

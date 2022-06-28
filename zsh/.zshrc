@@ -102,3 +102,5 @@ source $ZSH/oh-my-zsh.sh
 
 # Import colorscheme from 'wal'
 cat /home/piyush/.cache/wal/sequences
+path+=('/home/piyush/.local/bin')
+export PATH

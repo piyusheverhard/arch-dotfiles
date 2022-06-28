@@ -63,6 +63,10 @@ return packer.startup(function(use)
 	use("lunarvim/darkplus.nvim")
 	use("joshdick/onedark.vim") -- onedark theme
 	use("morhetz/gruvbox") -- gruvbox-community theme
+	use({
+		"catppuccin/nvim",
+		as = "catppuccin",
+	})
 	use("xiyaowong/nvim-transparent")
 
 	-- cmp plugins
@@ -100,8 +104,8 @@ return packer.startup(function(use)
 	-- cpbooster
 	use("searleser97/cpbooster.vim")
 
-  --wal
-  use("dylanaraps/wal")
+	--wal
+	use("dylanaraps/wal")
 
 	-- neo-tree.nvim
 	use({

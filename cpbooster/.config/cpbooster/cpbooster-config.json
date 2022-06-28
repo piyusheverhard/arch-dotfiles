@@ -8,7 +8,7 @@
   "preferredLang": "cpp",
   "languages": {
     "cpp": {
-      "template": "~/dotfiles/cpbooster/.config/cpbooster/template.cpp",
+      "template": "~/arch-dotfiles/cpbooster/.config/cpbooster/template.cpp",
       "command": "g++ -std=gnu++2a -O2",
       "debugCommand": "g++ -std=gnu++2a -D_genjutsu -Wshadow -Wall",
       "aliases": {

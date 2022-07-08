@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/esther-ann-nYJ5Pd7l6vw-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A090C",
+        "foreground": "#c5c4c6",
+        "cursor": "#c5c4c6"
+    },
+    "colors": {
+        "color0": "#0A090C",
+        "color1": "#A85631",
+        "color2": "#DB6D30",
+        "color3": "#99665D",
+        "color4": "#ED9260",
+        "color5": "#6E7586",
+        "color6": "#82818D",
+        "color7": "#c5c4c6",
+        "color8": "#89898a",
+        "color9": "#A85631",
+        "color10": "#DB6D30",
+        "color11": "#99665D",
+        "color12": "#ED9260",
+        "color13": "#6E7586",
+        "color14": "#82818D",
+        "color15": "#c5c4c6"
+    }
+}

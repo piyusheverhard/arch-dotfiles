@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/recal-media-ueBIGLmiI5A-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080505",
+        "foreground": "#ecc5bf",
+        "cursor": "#ecc5bf"
+    },
+    "colors": {
+        "color0": "#080505",
+        "color1": "#994034",
+        "color2": "#A06063",
+        "color3": "#D3756A",
+        "color4": "#B6856B",
+        "color5": "#EB8A76",
+        "color6": "#BA7884",
+        "color7": "#ecc5bf",
+        "color8": "#a58985",
+        "color9": "#994034",
+        "color10": "#A06063",
+        "color11": "#D3756A",
+        "color12": "#B6856B",
+        "color13": "#EB8A76",
+        "color14": "#BA7884",
+        "color15": "#ecc5bf"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/1097080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0910",
+        "foreground": "#a7c1c1",
+        "cursor": "#a7c1c1"
+    },
+    "colors": {
+        "color0": "#0a0910",
+        "color1": "#615C55",
+        "color2": "#5F7F7A",
+        "color3": "#9D5134",
+        "color4": "#B9462E",
+        "color5": "#976956",
+        "color6": "#D9A459",
+        "color7": "#a7c1c1",
+        "color8": "#748787",
+        "color9": "#615C55",
+        "color10": "#5F7F7A",
+        "color11": "#9D5134",
+        "color12": "#B9462E",
+        "color13": "#976956",
+        "color14": "#D9A459",
+        "color15": "#a7c1c1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/mountains.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0e180a",
+        "foreground": "#a3dde3",
+        "cursor": "#a3dde3"
+    },
+    "colors": {
+        "color0": "#0e180a",
+        "color1": "#82746A",
+        "color2": "#348D68",
+        "color3": "#5E9D6B",
+        "color4": "#98AE6C",
+        "color5": "#26969A",
+        "color6": "#4FB9B2",
+        "color7": "#a3dde3",
+        "color8": "#729a9e",
+        "color9": "#82746A",
+        "color10": "#348D68",
+        "color11": "#5E9D6B",
+        "color12": "#98AE6C",
+        "color13": "#26969A",
+        "color14": "#4FB9B2",
+        "color15": "#a3dde3"
+    }
+}

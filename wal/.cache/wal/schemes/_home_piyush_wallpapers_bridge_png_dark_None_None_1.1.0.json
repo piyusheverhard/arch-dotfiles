@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/bridge.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1319",
+        "foreground": "#eec8bb",
+        "cursor": "#eec8bb"
+    },
+    "colors": {
+        "color0": "#0f1319",
+        "color1": "#38738B",
+        "color2": "#54788A",
+        "color3": "#A17B83",
+        "color4": "#3C839A",
+        "color5": "#588494",
+        "color6": "#A68D8C",
+        "color7": "#eec8bb",
+        "color8": "#a68c82",
+        "color9": "#38738B",
+        "color10": "#54788A",
+        "color11": "#A17B83",
+        "color12": "#3C839A",
+        "color13": "#588494",
+        "color14": "#A68D8C",
+        "color15": "#eec8bb"
+    }
+}

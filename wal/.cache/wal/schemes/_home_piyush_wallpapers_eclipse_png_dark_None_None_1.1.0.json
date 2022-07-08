@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/eclipse.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080914",
+        "foreground": "#d9979b",
+        "cursor": "#d9979b"
+    },
+    "colors": {
+        "color0": "#080914",
+        "color1": "#673F41",
+        "color2": "#743541",
+        "color3": "#963343",
+        "color4": "#954543",
+        "color5": "#AB4C46",
+        "color6": "#B16654",
+        "color7": "#d9979b",
+        "color8": "#97696c",
+        "color9": "#673F41",
+        "color10": "#743541",
+        "color11": "#963343",
+        "color12": "#954543",
+        "color13": "#AB4C46",
+        "color14": "#B16654",
+        "color15": "#d9979b"
+    }
+}

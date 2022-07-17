@@ -244,19 +244,19 @@ cursor:
 
 font:
   normal:
-    family: "Iosevka Nerd Font"
+    family: "JetBrains Mono Nerd Font"
     style: Regular
   bold:
-    family: "Iosevka Nerd Font" 
+    family: "JetBrains Mono Nerd Font"
     style: Bold
   italic:
-    family: "Iosevka Nerd Font" 
+    family: "JetBrains Mono Nerd Font"
     style: Italic
   bold_italic:
-    family: "Iosevka Nerd Font" 
+    family: "JetBrains Mono Nerd Font"
     style: Bold Italic
   # Point size
-  size: 11
+  size: 10.5
 
   ligatures: true
 

@@ -27,7 +27,7 @@ set $mod Mod1
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
-font pango:Hack 10
+font pango:JetBrains Mono Nerd Font 10
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
@@ -309,11 +309,10 @@ exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 #Pywal (for restoring color scheme)
 exec wal -R
 
-# Polybar
-exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-
 # i3lock-color
 bindsym $mod+x exec $HOME/.config/scripts/lock.sh
 
+# Polybar
+exec_always $HOME/.config/polybar/launch.sh
 # night mode : redshift
 # use redshift-gtk instead of redshift

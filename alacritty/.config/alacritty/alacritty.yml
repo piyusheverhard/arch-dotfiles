@@ -61,66 +61,41 @@
 # Colors (One Darker)
 # Note I am using alacritty-ligatures until ligatures make it upstream
 colors:
-  # Default colors
+  name: Atelierheath (light)
+  author: Chris Kempson
   primary:
-    background: "#000000"
-    foreground: "#abb2bf"
-  # # Normal colors
-  # normal:
-  #   black: "#4C566A"
-  #   red: "#bf616a"
-  #   green: "#A3BE8C"
-  #   yellow: "#D7BA7D"
-  #   blue: "#5e81ac"
-  #   magenta: "#B48EAD"
-  #   cyan: "#88c0d0"
-  #   white: "#abb2bf"
-  # # Bright colors
-  # bright:
-  #   black: "#4C566A"
-  #   red: "#bf616a"
-  #   green: "#A3BE8C"
-  #   yellow: "#D7BA7D"
-  #   blue: "#5e81ac"
-  #   magenta: "#B48EAD"
-  #   cyan: "#88c0d0"
-  #   white: "#abb2bf"
-
-  normal:
-    black: "#4b5263"
-    red: "#e06c75"
-    green: "#98C379"
-    yellow: "#E5C07B"
-    blue: "#61AFEF"
-    magenta: "#C678DD"
-    cyan: "#56B6C2"
-    white: "#abb2bf"
-
-  # Bright colors
-  bright:
-    black: "#4b5263"
-    red: "#e06c75"
-    green: "#98C379"
-    yellow: "#E5C07B"
-    blue: "#61AFEF"
-    magenta: "#C678DD"
-    cyan: "#56B6C2"
-    white: "#abb2bf"
-  # Change cursor colors
+    background: "#f7f3f7"
+    foreground: "#695d69"
   cursor:
-    text: CellBackground
-    cursor: "#84a0c6"
+    text: "#f7f3f7"
+    cursor: "#695d69"
+  normal:
+    black: "#1b181b"
+    red: "#ca402b"
+    green: "#379a37"
+    yellow: "#bb8a35"
+    blue: "#516aec"
+    magenta: "#7b59c0"
+    cyan: "#159393"
+    white: "#ab9bab"
+  bright:
+    black: "#776977"
+    red: "#ca402b"
+    green: "#379a37"
+    yellow: "#bb8a35"
+    blue: "#516aec"
+    magenta: "#7b59c0"
+    cyan: "#159393"
+    white: "#f7f3f7"
 
 # # If `true`, bold text is drawn using the bright color variants.
 # draw_bold_text_with_bright_colors: false
-
 ## Colors (Iceberg)
 #colors:
 #  # Default colors
 #  primary:
 #    background: "#000000"
 #    foreground: "#abb0c9"
-
 #    # Bright and dim foreground colors
 #    #
 #    # The dimmed foreground color is calculated automatically if it is not
@@ -129,7 +104,6 @@ colors:
 #    # color will be used.
 #    #dim_foreground: '#828482'
 #    #bright_foreground: '#eaeaea'
-
 #  # Cursor colors
 #  #
 #  # Colors which should be used to draw the terminal cursor.
@@ -140,7 +114,6 @@ colors:
 #  cursor:
 #    text: CellBackground
 #    cursor: "#84a0c6"
-
 #  # Vi mode cursor colors
 #  #
 #  # Colors for the cursor when the vi mode is active.
@@ -159,7 +132,6 @@ colors:
 #  selection:
 #    text: CellBackground
 #    background: "#84a0c6"
-
 #  # Search colors
 #  #
 #  # Colors used for the search bar and match highlighting.
@@ -172,11 +144,9 @@ colors:
 #    focused_match:
 #      foreground: CellBackground
 #      background: "#b4be82"
-
 #    bar:
 #      background: "#84a0c6"
 #      foreground: "#1d1f21"
-
 #  # Normal colors
 #  normal:
 #    black: "#2e3244"
@@ -188,7 +158,6 @@ colors:
 #    magenta: "#a093c7"
 #    cyan: "#89b8c2"
 #    white: "#abb0c9"
-
 #  # Bright colors
 #  bright:
 #    black: "#444b71"
@@ -200,8 +169,7 @@ colors:
 #    magenta: "#a093c7"
 #    cyan: "#89b8c2"
 #    white: "#abb0c9"
-
-window.opacity: 0.9
+window.opacity: 0.7
 
 cursor:
   # Cursor style
@@ -230,7 +198,6 @@ cursor:
   #
   # See `cursor.style` for available options.
   #vi_mode_style: None
-
   # Cursor blinking interval in milliseconds.
   blink_interval: 200
 
@@ -256,7 +223,7 @@ font:
     family: "JetBrains Mono Nerd Font"
     style: Bold Italic
   # Point size
-  size: 10.5
+  size: 9.5
 
   ligatures: true
 
@@ -277,13 +244,11 @@ window:
   #   # Number of lines the viewport will move for every line scrolled when
   #   # scrollback is enabled (history > 0).
   #   multiplier: 10
-
   # Allow terminal applications to change Alacritty's window title.
   dynamic_title: true
 
   # # If `true`, bold text is drawn using the bright color variants.
   # draw_bold_text_with_bright_colors: true
-
   # selection:
   semantic_escape_chars: ',│`|:"'' ()[]{}<>'
   save_to_clipboard: true

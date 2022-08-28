@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/TvwN4ws.png",
+    "alpha": "100",
+    "special": {
+        "background": "#11161e",
+        "foreground": "#d8d7d3",
+        "cursor": "#d8d7d3"
+    },
+    "colors": {
+        "color0": "#11161e",
+        "color1": "#9A6369",
+        "color2": "#C5666C",
+        "color3": "#6B7489",
+        "color4": "#8B798A",
+        "color5": "#918D89",
+        "color6": "#A29BA0",
+        "color7": "#d8d7d3",
+        "color8": "#979693",
+        "color9": "#9A6369",
+        "color10": "#C5666C",
+        "color11": "#6B7489",
+        "color12": "#8B798A",
+        "color13": "#918D89",
+        "color14": "#A29BA0",
+        "color15": "#d8d7d3"
+    }
+}

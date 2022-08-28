@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/N1MWUOS.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#222d36",
+        "foreground": "#dde9f5",
+        "cursor": "#dde9f5"
+    },
+    "colors": {
+        "color0": "#222d36",
+        "color1": "#6C9FCC",
+        "color2": "#959FAB",
+        "color3": "#8EB5DA",
+        "color4": "#A1C4E6",
+        "color5": "#B1D1F3",
+        "color6": "#C3DDF7",
+        "color7": "#dde9f5",
+        "color8": "#9aa3ab",
+        "color9": "#6C9FCC",
+        "color10": "#959FAB",
+        "color11": "#8EB5DA",
+        "color12": "#A1C4E6",
+        "color13": "#B1D1F3",
+        "color14": "#C3DDF7",
+        "color15": "#dde9f5"
+    }
+}

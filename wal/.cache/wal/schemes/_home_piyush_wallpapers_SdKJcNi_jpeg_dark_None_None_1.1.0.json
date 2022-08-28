@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/SdKJcNi.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d1012",
+        "foreground": "#e5e7e8",
+        "cursor": "#e5e7e8"
+    },
+    "colors": {
+        "color0": "#0d1012",
+        "color1": "#867E81",
+        "color2": "#79878E",
+        "color3": "#8F8F8F",
+        "color4": "#A4A7A7",
+        "color5": "#C6BDB4",
+        "color6": "#CED5D7",
+        "color7": "#e5e7e8",
+        "color8": "#a0a1a2",
+        "color9": "#867E81",
+        "color10": "#79878E",
+        "color11": "#8F8F8F",
+        "color12": "#A4A7A7",
+        "color13": "#C6BDB4",
+        "color14": "#CED5D7",
+        "color15": "#e5e7e8"
+    }
+}

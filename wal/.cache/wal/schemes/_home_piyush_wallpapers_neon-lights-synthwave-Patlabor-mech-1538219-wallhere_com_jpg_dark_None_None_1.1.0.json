@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/neon-lights-synthwave-Patlabor-mech-1538219-wallhere.com.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A080D",
+        "foreground": "#a4d8b6",
+        "cursor": "#a4d8b6"
+    },
+    "colors": {
+        "color0": "#0A080D",
+        "color1": "#276658",
+        "color2": "#50554F",
+        "color3": "#3B835A",
+        "color4": "#328D73",
+        "color5": "#538559",
+        "color6": "#56966D",
+        "color7": "#a4d8b6",
+        "color8": "#72977f",
+        "color9": "#276658",
+        "color10": "#50554F",
+        "color11": "#3B835A",
+        "color12": "#328D73",
+        "color13": "#538559",
+        "color14": "#56966D",
+        "color15": "#a4d8b6"
+    }
+}

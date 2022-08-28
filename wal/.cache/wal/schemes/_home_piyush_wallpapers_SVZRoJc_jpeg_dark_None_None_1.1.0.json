@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/piyush/wallpapers/SVZRoJc.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0f0e",
+        "foreground": "#ddd9ce",
+        "cursor": "#ddd9ce"
+    },
+    "colors": {
+        "color0": "#0d0f0e",
+        "color1": "#A69566",
+        "color2": "#347583",
+        "color3": "#677887",
+        "color4": "#2AA2A1",
+        "color5": "#708D97",
+        "color6": "#9CA09F",
+        "color7": "#ddd9ce",
+        "color8": "#9a9790",
+        "color9": "#A69566",
+        "color10": "#347583",
+        "color11": "#677887",
+        "color12": "#2AA2A1",
+        "color13": "#708D97",
+        "color14": "#9CA09F",
+        "color15": "#ddd9ce"
+    }
+}
